@@ -1,0 +1,10 @@
+name: sensitivity_shiny_app
+title:
+username: rakan
+account: rakan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14025123
+bundleId: 10061883
+url: https://rakan.shinyapps.io/sensitivity_shiny_app/
+version: 1
